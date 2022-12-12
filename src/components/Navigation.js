@@ -10,7 +10,7 @@ export class Navigation extends Component {
         <Container>
           {/* <Navbar.Brand href="#home">Navbar</Navbar.Brand> */}
           <Nav className="me-auto">
-            <NavLink to="/home" className="d-inline p-2 bg-dark text-white">
+            <NavLink to="/" className="d-inline p-2 bg-dark text-white">
               Home
             </NavLink>
             <NavLink to="/employee" className="d-inline p-2 bg-dark text-white">
